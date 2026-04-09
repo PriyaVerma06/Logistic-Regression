@@ -1,4 +1,4 @@
-# Contributing to ML Arena 2
+# Contributing to Logistic-Regression
 
 This repo contains only the Logistic Regression problem.
 
@@ -44,8 +44,8 @@ This repo contains only the Logistic Regression problem.
 2. Clone your fork and enter the repo folder:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Arena-2.git
-cd ML-Arena-2
+git clone https://github.com/<your-username>/Logistic-Regression.git
+cd Logistic-Regression
 ```
 
 3. Create a branch:
