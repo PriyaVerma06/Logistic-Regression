@@ -23,14 +23,17 @@ This repository is part of the ML Arena family, a set of 5 dedicated repositorie
 ## Repository Layout
 
 ```
-ML-Arena-2/
-|- README.md
-|- CONTRIBUTING.md
-|- dataset.csv
-|- exploration/exploration.ipynb
-|- library/training.ipynb
-|- scratch/training.ipynb
-`- .github/PULL_REQUEST_TEMPLATE.md
+Logistic-Regression/
+├─ README.md
+├─ CONTRIBUTING.md
+├─ dataset.csv
+├─ exploration/
+│  └─ exploration.ipynb
+├─ library/
+│  └─ training.ipynb
+├─ scratch/
+│  └─ training.ipynb
+└─ PULL_REQUEST_TEMPLATE.md
 ```
 
 ## Task Tracks
@@ -42,7 +45,7 @@ ML-Arena-2/
 
 ## Quick Start
 
-1. Fork this folder as its own repo (ML-Arena-2).
+1. Fork this folder as its own repo (Logistic-Regression).
 2. Clone your fork and create a branch.
 3. Pick one issue.
 4. Work in only one notebook based on track:
