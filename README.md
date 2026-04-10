@@ -43,6 +43,15 @@ Logistic-Regression/
 - Scratch: Sigmoid + loss + gradient descent using NumPy.
 - Optimization: Improve baseline using threshold tuning, regularization, or class weighting.
 
+## Contribution Model
+
+**Each issue is open to multiple contributors**.
+
+- Multiple PRs can be submitted for the same issue.  
+- Different approaches, implementations, and optimizations are welcome.   
+
+This means even if someone has already submitted a PR for an issue, **you are still encouraged to submit your own solution**.
+
 ## Quick Start
 
 1. Fork this folder as its own repo (Logistic-Regression).
